@@ -1,6 +1,6 @@
 # succinct-inc
 
 ## Background
-An imaginary Company building a Product called Sucinct - A Reminder Management Interface
+An imaginary Company building a Product called Succinct - A Reminder Management Interface
 
 
